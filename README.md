@@ -40,7 +40,10 @@ The ESP32 sends readings every 20 seconds.
 ![Humidity Chart](Humidity.png)
 
 ### wokwi simulator 
-![wokwi simulator](wokwi.png)
+![wokwi simulator](wokwi2.png)
+
+### some wokwi's results
+![wokwi result](wokwi.png)
 
 ## How to Run
 1. Open the Wokwi simulation.
