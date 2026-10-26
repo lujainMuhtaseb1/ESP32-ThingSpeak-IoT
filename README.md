@@ -39,8 +39,13 @@ The ESP32 sends readings every 20 seconds.
 ### Humidity Chart
 ![Humidity Chart](Humidity.png)
 
+### wokwi simulator 
+![wokwi] (wokwi.png)
+
 ## How to Run
 1. Open the Wokwi simulation.
 2. Add the required DHTesp and ThingSpeak libraries.
 3. Configure the ThingSpeak channel number and write API key in the code.
 4. Run the simulation and verify that temperature and humidity readings appear in ThingSpeak.
+
+ --  API key removed for security purpose
